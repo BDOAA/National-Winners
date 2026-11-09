@@ -166,7 +166,7 @@ BDOAA national round winners, 2020–2026 — Bangladesh Olympiad on Astronomy a
 |---:|---|---|---|
 | 1 | Sham-un Muhebbo Sajid | Government Laboratory High School, Rajshahi | SSC 2024 |
 | 2 | Sindid Ahmed | Green Dale International School | 11 |
-| 3 | Tasdik Ahmed Tonmoy | Government Laboratory High School, Rajshahi | 10 |
+| 3 | Tasdik Ahmed Tonmay | Government Laboratory High School, Rajshahi | 10 |
 | 4 | Raiyan Kawsar | Notre Dame College, Dhaka | 11 |
 | 4 | Hasan Tahmid Zarif | Notre Dame College, Dhaka | 11 |
 | 6 | Rahul Nandi | Chittagong College | 11 |
@@ -371,7 +371,7 @@ BDOAA national round winners, 2020–2026 — Bangladesh Olympiad on Astronomy a
 | 2 | Mohtasiba Hossain | Viqarunnisa Noon School & College | 8 |
 | 3 | Abrar Fairoj Raiyan | Dhanmondi Government Boys' High School | 8 |
 | 4 | Mahathir Md. Mahi | Kids Tutorial | 8 |
-| 5 | Tasdik Ahmed Tonmoy | Government Laboratory High School, Rajshahi | 6 |
+| 5 | Tasdik Ahmed Tonmay | Government Laboratory High School, Rajshahi | 6 |
 | 6 | Lamiya Tarannum | Dr. Khastagir Government Girls' High School | 8 |
 | 7 | Md. Muhtadi Junayed Lubdhok | Dinajpur Zilla School | 8 |
 | 8 | Md. Mominur Islam Mahim | Dinajpur Zilla School | 8 |
