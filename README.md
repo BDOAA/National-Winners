@@ -79,7 +79,7 @@ BDOAA national round winners, 2020–2026 — Bangladesh Olympiad on Astronomy a
 ### Open
 
 | Rank | Name | Institution | 
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | Hasan Tahmid Zarif | Notre Dame College | 
 | 2 | Alif Ashraful | Independent University Bangladesh | 
 | 3 | Ragib Aosaf Ahmed | Bangladesh University of Engineering & Technology | 
